@@ -8,6 +8,6 @@
 [Mental Health Analysis](http://masonschafercodes.pythonanywhere.com/)
 
 # Data Source
-- Provided by [OSMI](https://osmihelp.org/):
+- Provided by [OSMI](https://www.kaggle.com/osmi/mental-health-in-tech-survey):
 ---
 ![Model Results](/images/osmi.png)
