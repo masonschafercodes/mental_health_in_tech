@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Results</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    {% if preds == 'No' %}
+    <h1
+      style="margin: 0 auto; text-align: center; width: 50%; padding-top: 20px;"
+    >
+      Currently we don't think you need to seek treatment for mental health. If
+      you begin to feel stress, please seek help from someone.
+    </h1>
+    <h4
+      style="margin: 0 auto; text-align: center; width: 50%; padding-top: 40px;"
+    >
+      Links to help out:
+    </h4>
+    <hr style="height: 1px;
+    background-color: #ccc;
+    border: none; width: 55%;">
+    <a
+      href="https://www.nami.org/Get-Involved/Awareness-Events/Mental-Health-Month"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        NAMI: National Association of Mental Illness
+      </p>
+    </a>
+    <a
+      href="https://www.mentalhealth.gov/"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        MentalHealth.org
+      </p>
+      <a
+      href="https://www.mhanational.org/mental-health-month"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        Mental Health America
+      </p>
+    {% else %}
+    <h1
+      style="margin: 0 auto; text-align: center; width: 50%; padding-top: 20px;"
+    >
+      The information you provided tells us that you should seek help, if
+      you're having any issues in the workplace, please follow one of the links below and recieve help.
+    </h1>
+    <h4
+      style="margin: 0 auto; text-align: center; width: 50%; padding-top: 40px;"
+    >
+      Links to help out:
+    </h4>
+    <hr style="height: 1px;
+    background-color: #ccc;
+    border: none; width: 55%;">
+    <a
+      href="https://www.nami.org/Get-Involved/Awareness-Events/Mental-Health-Month"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        NAMI: National Association of Mental Illness
+      </p>
+      <a
+      href="https://www.mentalhealth.gov/"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        MentalHealth.org
+      </p>
+      <a
+      href="https://www.mhanational.org/mental-health-month"
+      target="_blank"
+    >
+      <p
+        style="
+          margin: 0 auto;
+          text-align: center;
+          width: 50%;
+          padding-top: 20px;
+        "
+      >
+        Mental Health America
+      </p>
+    {% endif %}
+    <a href="https://github.com/masonschafercodes/mental_health_in_tech" target="_blank"><p style="
+      margin: 0 auto;
+      text-align: center;
+      width: 50%;
+      padding-top: 20px;
+    ">
+      Track the Project
+    </p></a>
+  </body>
+</html>

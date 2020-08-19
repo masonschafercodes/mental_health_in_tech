@@ -1,0 +1,1258 @@
+,Age,Gender,family_history,treatment,work_interfere,benefits,care_options,anonymity,leave
+0,37,female,No,Yes,Often,Yes,Not sure,Yes,Somewhat easy
+1,44,male,No,No,Rarely,Don't know,No,Don't know,Don't know
+2,32,male,No,No,Rarely,No,No,Don't know,Somewhat difficult
+3,31,male,Yes,Yes,Often,No,Yes,No,Somewhat difficult
+4,31,male,No,No,Never,Yes,No,Don't know,Don't know
+5,33,male,Yes,No,Sometimes,Yes,Not sure,Don't know,Don't know
+6,35,female,Yes,Yes,Sometimes,No,No,No,Somewhat difficult
+7,39,male,No,No,Never,No,Yes,Yes,Don't know
+8,42,female,Yes,Yes,Sometimes,Yes,Yes,No,Very difficult
+9,23,male,No,No,Never,Don't know,No,Don't know,Don't know
+10,31,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+11,29,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+12,42,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+13,36,male,Yes,No,Never,Don't know,Not sure,Don't know,Don't know
+14,27,male,No,No,Never,Don't know,Not sure,Don't know,Somewhat easy
+15,29,female,Yes,Yes,Rarely,Yes,Not sure,Don't know,Somewhat easy
+16,23,male,No,Yes,Sometimes,Don't know,No,Don't know,Very easy
+17,32,male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+18,46,male,Yes,No,Sometimes,Yes,Not sure,Yes,Very easy
+19,36,male,Yes,No,Don't Know,No,No,Yes,Somewhat easy
+20,29,male,Yes,Yes,Sometimes,Yes,Yes,No,Somewhat difficult
+21,31,male,No,No,Never,No,No,Yes,Somewhat difficult
+22,46,male,No,Yes,Often,Yes,Yes,Don't know,Don't know
+23,41,male,No,Yes,Never,Don't know,No,Don't know,Don't know
+24,33,male,Yes,Yes,Rarely,Yes,Not sure,Yes,Don't know
+25,35,male,Yes,Yes,Sometimes,Yes,Yes,No,Very easy
+26,33,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+27,35,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+28,34,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+29,37,male,No,No,Sometimes,No,No,Don't know,Very difficult
+30,32,male,No,No,Never,No,No,Don't know,Don't know
+31,31,male,Yes,No,Rarely,No,Yes,Don't know,Somewhat difficult
+32,30,male,Yes,Yes,Sometimes,Don't know,No,Yes,Somewhat easy
+33,42,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+34,40,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+35,27,male,No,Yes,Rarely,No,Yes,Don't know,Very easy
+36,29,male,No,No,Rarely,No,No,Don't know,Very easy
+37,38,male,No,No,Don't Know,No,Yes,Don't know,Somewhat easy
+38,50,male,No,No,Don't Know,Yes,Yes,Don't know,Don't know
+39,35,male,No,Yes,Rarely,Yes,Yes,Yes,Very easy
+40,24,male,No,Yes,Sometimes,No,No,Don't know,Don't know
+41,35,male,No,No,Don't Know,Yes,Not sure,Don't know,Somewhat difficult
+42,27,male,Yes,Yes,Sometimes,No,Yes,Yes,Very difficult
+43,18,male,No,No,Often,No,Not sure,Don't know,Somewhat difficult
+44,30,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+45,38,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+46,28,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+47,34,male,No,No,Don't Know,No,No,Don't know,Don't know
+48,26,male,No,No,Sometimes,No,Yes,Don't know,Don't know
+49,30,male,Yes,Yes,Rarely,Yes,No,Don't know,Don't know
+50,22,male,Yes,Yes,Often,No,Yes,Yes,Very difficult
+51,33,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+52,31,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+53,32,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+54,28,male,No,No,Don't Know,No,No,Don't know,Don't know
+55,27,male,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know
+56,32,male,Yes,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+57,24,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+58,26,male,No,No,Don't Know,No,No,Yes,Somewhat easy
+59,33,male,Yes,Yes,Often,Don't know,No,No,Somewhat difficult
+60,44,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+61,26,female,No,Yes,Sometimes,Don't know,Not sure,Yes,Very easy
+62,27,male,No,No,Never,Yes,Not sure,Don't know,Somewhat easy
+63,26,male,No,No,Don't Know,No,No,Don't know,Very easy
+64,35,male,No,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+65,40,male,Yes,No,Sometimes,Yes,Yes,Don't know,Don't know
+66,23,female,Yes,Yes,Often,No,Not sure,Don't know,Very easy
+67,36,male,No,No,Sometimes,Yes,No,Don't know,Don't know
+68,31,female,No,No,Don't Know,Don't know,No,Don't know,Don't know
+69,34,male,No,No,Rarely,No,No,Don't know,Don't know
+70,28,male,No,No,Never,No,No,Don't know,Don't know
+71,34,male,No,No,Never,Don't know,Not sure,Don't know,Somewhat easy
+72,23,trans,No,No,Rarely,Yes,Yes,Yes,Somewhat difficult
+73,38,male,No,No,Don't Know,No,No,Yes,Somewhat easy
+74,33,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+75,19,male,No,No,Don't Know,No,Yes,No,Somewhat difficult
+76,25,male,No,No,Don't Know,Yes,Yes,Don't know,Don't know
+77,31,male,Yes,No,Sometimes,No,No,Yes,Somewhat difficult
+78,32,male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat difficult
+79,28,male,No,No,Never,Don't know,No,Don't know,Very easy
+80,38,male,Yes,No,Sometimes,Yes,Yes,Don't know,Don't know
+81,23,male,No,No,Never,Yes,Not sure,Don't know,Very easy
+82,30,male,No,No,Never,No,No,Don't know,Don't know
+83,27,female,No,Yes,Often,Yes,Yes,Yes,Very easy
+84,33,male,Yes,No,Never,No,No,Don't know,Don't know
+85,31,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+86,39,male,No,Yes,Often,No,No,Don't know,Very difficult
+87,34,female,Yes,Yes,Rarely,Yes,Not sure,Don't know,Don't know
+88,29,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+89,32,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+90,31,male,No,No,Never,Yes,Yes,Yes,Somewhat easy
+91,40,male,No,Yes,Sometimes,No,Yes,Yes,Very difficult
+92,34,male,No,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+93,18,trans,No,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+94,25,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+95,29,male,No,No,Never,Don't know,No,Don't know,Don't know
+96,24,male,Yes,No,Rarely,Don't know,Not sure,Don't know,Somewhat easy
+97,31,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+98,33,male,No,Yes,Sometimes,No,Yes,Don't know,Somewhat easy
+99,30,male,No,Yes,Often,No,Yes,Yes,Somewhat easy
+100,26,female,Yes,Yes,Sometimes,No,Yes,No,Very difficult
+101,44,female,No,No,Never,Yes,Not sure,Don't know,Don't know
+102,25,male,Yes,No,Don't Know,Don't know,No,Don't know,Very easy
+103,33,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+104,29,male,No,No,Never,Yes,Not sure,Don't know,Somewhat easy
+105,35,male,Yes,No,Rarely,Yes,Not sure,Yes,Somewhat easy
+106,35,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+107,28,male,Yes,Yes,Rarely,No,No,No,Don't know
+108,34,male,Yes,No,Never,Yes,No,Don't know,Don't know
+109,32,male,No,Yes,Sometimes,Yes,No,Yes,Somewhat difficult
+110,22,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+111,28,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+112,45,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+113,32,male,No,No,Never,Yes,Yes,Don't know,Don't know
+114,28,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+115,26,male,No,No,Never,Don't know,No,Don't know,Very easy
+116,21,male,No,No,Often,No,Yes,Yes,Very difficult
+117,27,male,No,No,Rarely,Yes,Yes,Yes,Very easy
+118,18,male,No,Yes,Rarely,No,No,Yes,Very easy
+119,35,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+120,29,male,No,No,Never,Yes,Yes,Don't know,Don't know
+121,25,male,No,No,Don't Know,Don't know,No,Don't know,Very easy
+122,33,male,Yes,Yes,Sometimes,Don't know,No,Yes,Very easy
+123,36,male,No,No,Often,Yes,No,Yes,Don't know
+124,27,male,No,Yes,Never,Yes,Not sure,Don't know,Very difficult
+125,27,male,Yes,No,Never,Yes,No,Yes,Don't know
+126,27,male,No,No,Don't Know,No,No,Don't know,Don't know
+127,32,male,No,Yes,Rarely,Yes,Yes,Yes,Don't know
+128,31,male,Yes,No,Sometimes,No,No,Don't know,Somewhat easy
+129,19,male,No,Yes,Sometimes,Don't know,No,Don't know,Somewhat easy
+130,33,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+131,32,male,No,No,Rarely,No,Yes,Don't know,Very difficult
+132,27,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+133,38,male,No,No,Don't Know,No,Yes,Yes,Somewhat easy
+134,24,male,No,Yes,Never,Don't know,No,Don't know,Don't know
+135,39,male,No,No,Never,No,No,Don't know,Don't know
+136,28,male,No,No,Never,Don't know,No,Yes,Very easy
+137,39,male,No,Yes,Often,Yes,Not sure,Don't know,Somewhat easy
+138,29,female,No,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+139,22,male,No,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+140,38,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+141,37,male,No,Yes,Sometimes,No,Yes,Yes,Very difficult
+142,35,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+143,31,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+144,30,female,Yes,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+145,37,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy
+146,24,male,No,No,Never,No,No,Yes,Don't know
+147,23,male,No,No,Sometimes,No,No,No,Somewhat easy
+148,30,male,No,Yes,Rarely,No,Yes,Don't know,Somewhat easy
+149,29,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+150,19,male,Yes,No,Don't Know,Don't know,Not sure,Yes,Somewhat easy
+151,32,male,Yes,No,Never,Don't know,Not sure,Don't know,Very easy
+152,28,male,No,No,Rarely,No,No,Don't know,Don't know
+153,36,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+154,37,male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat difficult
+155,25,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat difficult
+156,27,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+157,26,male,No,No,Often,Don't know,Not sure,Don't know,Don't know
+158,27,male,No,Yes,Rarely,No,Yes,Don't know,Somewhat difficult
+159,25,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Very easy
+160,36,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+161,25,female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+162,31,male,No,No,Never,Yes,No,Don't know,Don't know
+163,26,male,Yes,No,Rarely,Don't know,No,Don't know,Don't know
+164,33,female,Yes,Yes,Sometimes,No,Yes,Yes,Very difficult
+165,27,female,Yes,No,Don't Know,No,Yes,Yes,Somewhat easy
+166,34,male,No,No,Never,No,No,Don't know,Very easy
+167,42,male,No,No,Don't Know,No,Yes,Don't know,Very difficult
+168,23,male,Yes,No,Sometimes,No,No,Don't know,Very difficult
+169,24,male,No,No,Rarely,Don't know,Not sure,Don't know,Very easy
+170,26,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+171,31,male,No,Yes,Often,Don't know,No,Don't know,Don't know
+172,22,male,No,Yes,Never,Don't know,Not sure,Don't know,Very difficult
+173,23,female,No,No,Don't Know,Don't know,No,Don't know,Don't know
+174,34,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+175,31,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+176,28,male,No,No,Don't Know,No,Not sure,Yes,Somewhat easy
+177,32,female,No,Yes,Often,Yes,Not sure,Yes,Very easy
+178,45,female,No,Yes,Sometimes,Yes,No,Yes,Somewhat difficult
+179,33,male,No,No,Don't Know,Don't know,No,Don't know,Very easy
+180,29,male,No,No,Never,No,No,No,Don't know
+181,26,female,No,No,Sometimes,No,No,Don't know,Somewhat easy
+182,28,female,No,No,Never,Don't know,No,Yes,Somewhat easy
+183,45,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+184,43,male,Yes,Yes,Often,Yes,Not sure,Don't know,Very difficult
+185,37,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+186,24,male,No,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+187,26,male,No,No,Don't Know,No,Yes,Don't know,Somewhat easy
+188,23,male,Yes,No,Don't Know,Don't know,No,Don't know,Don't know
+189,35,female,Yes,Yes,Never,Yes,Not sure,Yes,Somewhat easy
+190,38,female,Yes,Yes,Often,No,Yes,Yes,Somewhat easy
+191,28,male,Yes,Yes,Sometimes,Yes,No,Don't know,Somewhat easy
+192,28,male,No,No,Sometimes,No,No,Don't know,Don't know
+193,35,male,No,Yes,Rarely,No,No,Yes,Don't know
+194,32,female,No,No,Sometimes,No,No,Don't know,Very difficult
+195,31,male,Yes,No,Never,No,No,Don't know,Somewhat easy
+196,35,female,No,No,Never,Don't know,Not sure,Don't know,Don't know
+197,26,male,No,No,Rarely,Yes,No,Yes,Somewhat easy
+198,27,male,Yes,No,Don't Know,Yes,Yes,Don't know,Somewhat easy
+199,28,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+200,27,female,Yes,Yes,Sometimes,Yes,No,Don't know,Very easy
+201,34,female,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+202,41,male,No,Yes,Often,No,Not sure,Don't know,Very difficult
+203,37,male,No,No,Sometimes,No,Yes,Don't know,Very difficult
+204,34,male,Yes,No,Don't Know,Don't know,No,Don't know,Very easy
+205,32,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+206,21,male,No,Yes,Sometimes,No,Yes,Don't know,Somewhat difficult
+207,30,male,No,Yes,Often,No,Yes,Yes,Somewhat easy
+208,24,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+209,26,male,No,No,Don't Know,No,No,No,Very easy
+210,40,female,No,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+211,37,male,Yes,No,Sometimes,No,No,Don't know,Don't know
+212,26,male,No,Yes,Often,No,No,Don't know,Don't know
+213,32,female,Yes,Yes,Sometimes,Don't know,No,No,Don't know
+214,32,female,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+215,27,female,Yes,Yes,Sometimes,No,No,Don't know,Very difficult
+216,30,male,No,Yes,Often,Yes,Yes,Yes,Very difficult
+217,31,male,No,No,Don't Know,Yes,Yes,Yes,Very easy
+218,29,female,No,Yes,Never,Yes,No,Don't know,Somewhat difficult
+219,41,male,No,No,Don't Know,Yes,Not sure,Don't know,Very easy
+220,34,female,No,No,Don't Know,Yes,No,Don't know,Somewhat easy
+221,33,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+222,28,male,No,No,Rarely,Don't know,No,Don't know,Don't know
+223,28,male,No,Yes,Sometimes,No,Yes,Yes,Very difficult
+224,23,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+225,24,male,No,No,Don't Know,Don't know,No,Yes,Very easy
+226,32,male,No,No,Rarely,No,Yes,Don't know,Very difficult
+227,34,male,No,No,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+228,24,male,No,No,Never,Yes,Not sure,Don't know,Very easy
+229,26,male,No,Yes,Sometimes,No,Yes,Don't know,Don't know
+230,36,male,No,Yes,Sometimes,Yes,No,Don't know,Don't know
+231,41,male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+232,38,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Very difficult
+233,38,male,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+234,30,male,No,No,Don't Know,Don't know,No,Yes,Somewhat easy
+235,25,male,No,No,Never,No,No,Don't know,Somewhat difficult
+236,37,male,Yes,Yes,Often,Yes,Yes,Don't know,Don't know
+237,34,male,Yes,No,Don't Know,No,No,Yes,Somewhat difficult
+238,37,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+239,28,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+240,22,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+241,34,male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat difficult
+242,33,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+243,25,male,No,No,Don't Know,No,No,Yes,Somewhat difficult
+244,27,male,No,No,Never,Yes,Yes,Yes,Somewhat easy
+245,40,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+246,21,male,No,Yes,Often,Don't know,No,Don't know,Don't know
+247,29,male,No,No,Don't Know,No,No,Yes,Very easy
+248,32,male,Yes,Yes,Sometimes,No,No,Don't know,Don't know
+249,29,female,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know
+250,23,male,Yes,Yes,Sometimes,Don't know,No,Yes,Somewhat easy
+251,28,male,Yes,No,Don't Know,Yes,No,Yes,Somewhat easy
+252,31,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+253,27,male,No,No,Don't Know,Don't know,Not sure,No,Very easy
+254,24,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+255,29,male,No,No,Often,No,No,Don't know,Somewhat difficult
+256,23,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+257,42,male,No,No,Never,No,Yes,Don't know,Somewhat easy
+258,24,male,No,No,Don't Know,No,No,Don't know,Don't know
+259,25,male,Yes,Yes,Often,No,Yes,No,Very difficult
+260,27,female,No,Yes,Rarely,Yes,No,Yes,Don't know
+261,27,male,No,No,Sometimes,No,Yes,No,Very difficult
+262,30,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+263,29,male,Yes,Yes,Rarely,No,Yes,Yes,Very difficult
+264,43,male,No,No,Don't Know,No,Not sure,Don't know,Somewhat easy
+265,32,male,No,No,Don't Know,No,Yes,Don't know,Very easy
+266,41,male,No,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+267,32,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Very easy
+268,37,female,Yes,Yes,Often,Yes,Yes,Yes,Don't know
+269,32,male,No,No,Never,No,No,Don't know,Very easy
+270,30,male,No,No,Sometimes,No,No,Don't know,Somewhat difficult
+271,23,female,Yes,Yes,Never,Yes,No,Yes,Don't know
+272,30,male,No,No,Don't Know,Yes,Yes,Yes,Very easy
+273,34,male,No,No,Sometimes,No,Yes,Don't know,Somewhat easy
+274,38,male,No,Yes,Rarely,Yes,No,Don't know,Don't know
+275,33,male,No,No,Don't Know,Yes,No,Yes,Don't know
+276,34,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+277,28,male,No,No,Sometimes,No,Yes,Don't know,Somewhat easy
+278,28,male,No,Yes,Rarely,Yes,Yes,Don't know,Very easy
+279,23,male,Yes,No,Sometimes,Don't know,No,Don't know,Don't know
+280,22,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+281,27,male,No,No,Never,No,No,Yes,Don't know
+282,18,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+283,35,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+284,25,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+285,27,male,Yes,Yes,Sometimes,No,No,Yes,Somewhat easy
+286,26,female,Yes,Yes,Rarely,Yes,Not sure,Don't know,Don't know
+287,18,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+288,38,female,No,Yes,Sometimes,No,Yes,Don't know,Don't know
+289,26,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy
+290,30,male,No,No,Never,No,No,No,Somewhat easy
+291,35,male,No,No,Never,Don't know,No,Don't know,Don't know
+292,45,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+293,32,male,No,No,Never,Yes,No,Don't know,Don't know
+294,56,male,No,Yes,Never,Yes,Not sure,Don't know,Don't know
+295,24,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+296,30,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+297,60,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+298,33,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+299,37,male,No,No,Never,Yes,Yes,Don't know,Don't know
+300,23,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+301,31,female,No,Yes,Sometimes,Yes,Not sure,Yes,Somewhat easy
+302,26,male,No,No,Rarely,Yes,Not sure,Don't know,Don't know
+303,28,female,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy
+304,37,female,No,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy
+305,26,male,Yes,Yes,Often,Yes,No,Don't know,Don't know
+306,30,trans,Yes,Yes,Rarely,Yes,Not sure,Don't know,Somewhat easy
+307,26,male,No,No,Don't Know,No,No,Don't know,Don't know
+308,25,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+309,27,male,No,No,Sometimes,Yes,Not sure,Don't know,Don't know
+310,25,male,No,Yes,Often,Don't know,No,Don't know,Somewhat difficult
+311,35,male,No,Yes,Rarely,Yes,Not sure,Don't know,Don't know
+312,36,male,No,Yes,Never,No,Yes,Don't know,Somewhat easy
+313,26,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+314,27,male,Yes,No,Don't Know,Don't know,No,Don't know,Very easy
+315,30,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+316,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+317,25,male,No,No,Never,Yes,Yes,Yes,Very easy
+318,22,female,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy
+319,29,male,No,No,Don't Know,No,Yes,Don't know,Somewhat easy
+320,41,male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+321,29,male,No,Yes,Sometimes,Yes,No,Don't know,Don't know
+322,32,male,No,No,Never,Yes,Not sure,Yes,Somewhat easy
+323,24,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+324,25,male,No,Yes,Rarely,Yes,No,Don't know,Don't know
+325,25,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+326,30,female,No,No,Never,Yes,Yes,Yes,Somewhat easy
+327,25,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+328,30,male,No,No,Never,No,Yes,Don't know,Don't know
+329,33,male,Yes,Yes,Rarely,No,No,Don't know,Somewhat difficult
+330,24,male,No,No,Don't Know,Yes,Not sure,Yes,Very easy
+331,25,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+332,31,male,No,No,Don't Know,Don't know,No,Yes,Somewhat easy
+333,45,male,No,Yes,Often,No,No,Don't know,Very difficult
+334,29,male,No,No,Don't Know,No,Yes,Don't know,Don't know
+335,46,male,No,No,Never,Yes,Not sure,Don't know,Very easy
+336,30,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+337,29,female,No,No,Sometimes,Yes,Not sure,Don't know,Very easy
+338,24,male,No,No,Don't Know,Yes,Yes,Yes,Don't know
+339,29,male,No,No,Don't Know,Yes,Yes,Yes,Very easy
+340,35,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+341,33,female,Yes,No,Sometimes,No,Yes,Don't know,Very difficult
+342,27,male,No,No,Sometimes,Don't know,Not sure,Don't know,Very easy
+343,36,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+344,33,male,No,No,Rarely,Don't know,No,Don't know,Don't know
+345,25,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+346,23,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+347,54,male,Yes,Yes,Never,Don't know,No,Don't know,Don't know
+348,22,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+349,25,trans,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+350,29,male,No,No,Often,Don't know,No,Don't know,Don't know
+351,27,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+352,30,male,No,No,Never,No,No,Don't know,Very easy
+353,26,male,Yes,Yes,Often,Yes,Not sure,Don't know,Don't know
+354,25,female,Yes,No,Sometimes,Yes,Yes,Don't know,Somewhat easy
+355,31,male,No,Yes,Sometimes,No,Yes,Yes,Don't know
+356,33,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+357,34,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+358,34,male,No,Yes,Sometimes,No,No,Don't know,Somewhat easy
+359,29,male,No,No,Don't Know,No,Yes,Yes,Very easy
+360,33,female,No,No,Don't Know,No,No,Don't know,Somewhat difficult
+361,34,male,Yes,Yes,Rarely,No,No,Don't know,Somewhat difficult
+362,26,male,Yes,Yes,Rarely,No,No,No,Don't know
+363,32,male,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know
+364,31,male,No,Yes,Often,Yes,Yes,Don't know,Don't know
+365,28,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+366,35,male,Yes,No,Don't Know,Yes,No,Yes,Very easy
+367,36,male,Yes,Yes,Often,No,Yes,Yes,Very easy
+368,21,male,Yes,Yes,Rarely,Yes,No,Yes,Don't know
+369,21,male,No,Yes,Sometimes,Don't know,Not sure,No,Very easy
+370,22,female,No,No,Don't Know,Yes,No,Yes,Somewhat easy
+371,41,male,Yes,Yes,Often,Yes,No,Don't know,Somewhat difficult
+372,55,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+373,32,female,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+374,21,female,Yes,Yes,Rarely,Don't know,Not sure,Don't know,Somewhat easy
+375,45,male,No,Yes,Never,Yes,Yes,Don't know,Don't know
+376,27,female,No,Yes,Rarely,Yes,Yes,Yes,Don't know
+377,25,female,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+378,34,female,Yes,Yes,Rarely,Yes,Yes,Yes,Very difficult
+379,26,female,Yes,Yes,Never,Yes,Yes,Yes,Don't know
+380,41,male,No,Yes,Never,Yes,Not sure,Don't know,Somewhat easy
+381,27,male,No,Yes,Rarely,Yes,No,Yes,Don't know
+382,31,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+383,25,male,Yes,Yes,Often,No,No,Yes,Somewhat easy
+384,26,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+385,27,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+386,42,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+387,29,trans,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very difficult
+388,25,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+389,33,female,Yes,Yes,Rarely,Yes,Yes,Yes,Don't know
+390,31,trans,Yes,Yes,Often,No,Yes,No,Very difficult
+391,40,female,Yes,Yes,Rarely,Yes,No,Don't know,Somewhat easy
+392,31,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+393,26,male,Yes,Yes,Often,Don't know,No,Don't know,Very easy
+394,24,female,Yes,No,Don't Know,No,No,No,Very difficult
+395,29,male,No,No,Never,Yes,Not sure,Don't know,Don't know
+396,48,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+397,35,male,No,No,Sometimes,No,No,Don't know,Very difficult
+398,32,female,No,No,Never,Don't know,Not sure,Don't know,Don't know
+399,29,male,No,Yes,Sometimes,Don't know,Not sure,Yes,Somewhat easy
+400,26,male,Yes,Yes,Often,Yes,Yes,Don't know,Somewhat difficult
+401,28,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+402,23,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+403,35,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very difficult
+404,29,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Very easy
+405,26,male,Yes,No,Don't Know,Yes,Yes,Yes,Very easy
+406,33,male,Yes,Yes,Never,Yes,Yes,Don't know,Don't know
+407,33,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+408,22,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+409,30,female,Yes,No,Don't Know,No,No,Don't know,Don't know
+410,33,male,Yes,Yes,Often,Yes,Yes,Don't know,Somewhat easy
+411,31,female,Yes,Yes,Rarely,Don't know,Not sure,Don't know,Very difficult
+412,21,male,Yes,No,Never,Don't know,Not sure,Don't know,Don't know
+413,31,trans,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+414,26,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+415,30,male,Yes,No,Often,Don't know,No,Don't know,Somewhat easy
+416,30,trans,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+417,23,male,No,No,Don't Know,No,No,Don't know,Don't know
+418,34,male,No,No,Never,No,No,Don't know,Somewhat easy
+419,55,male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know
+420,28,male,Yes,Yes,Rarely,Yes,No,Yes,Very easy
+421,26,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+422,28,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+423,32,male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy
+424,28,female,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+425,21,male,No,No,Sometimes,Don't know,Not sure,Yes,Don't know
+426,24,male,Yes,Yes,Sometimes,No,Yes,Don't know,Somewhat difficult
+427,26,female,No,No,Don't Know,Yes,Not sure,Don't know,Don't know
+428,23,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+429,24,female,No,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+430,28,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+431,24,female,Yes,Yes,Rarely,No,No,Don't know,Very easy
+432,33,male,No,Yes,Often,No,No,Yes,Somewhat easy
+433,34,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+434,27,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+435,28,male,No,No,Never,Don't know,No,Don't know,Don't know
+436,26,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+437,20,male,No,No,Don't Know,Don't know,Not sure,Yes,Very easy
+438,23,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+439,29,male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+440,26,male,Yes,No,Sometimes,No,No,Don't know,Don't know
+441,36,male,No,No,Rarely,Yes,No,Don't know,Somewhat easy
+442,41,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+443,33,female,No,No,Don't Know,Yes,No,Don't know,Don't know
+444,23,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+445,39,male,Yes,No,Often,Yes,No,Don't know,Don't know
+446,34,male,Yes,No,Don't Know,Yes,Not sure,Don't know,Don't know
+447,26,female,No,Yes,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+448,24,male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+449,37,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+450,43,male,Yes,Yes,Often,Yes,Yes,Yes,Very easy
+451,40,trans,Yes,No,Never,Yes,Yes,Yes,Don't know
+452,30,male,Yes,Yes,Often,Yes,Yes,Don't know,Very difficult
+453,34,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+454,27,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+455,36,male,No,No,Sometimes,Don't know,No,Yes,Somewhat easy
+456,27,male,No,No,Rarely,No,Yes,Don't know,Somewhat easy
+457,35,male,Yes,No,Never,Yes,No,Yes,Don't know
+458,32,male,No,No,Never,No,No,Don't know,Don't know
+459,37,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+460,29,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+461,33,female,No,No,Never,Yes,Not sure,Don't know,Very easy
+462,28,male,No,No,Sometimes,No,Yes,Don't know,Somewhat easy
+463,26,female,Yes,No,Never,Don't know,Not sure,Don't know,Somewhat difficult
+464,27,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat easy
+465,38,male,No,Yes,Sometimes,No,No,Yes,Somewhat easy
+466,57,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+467,28,male,No,Yes,Sometimes,No,No,No,Very difficult
+468,26,male,No,No,Never,No,Yes,Don't know,Don't know
+469,42,female,No,Yes,Rarely,Yes,Yes,Yes,Don't know
+470,31,male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+471,58,male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+472,29,male,No,No,Sometimes,Don't know,No,Don't know,Very difficult
+473,39,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+474,34,male,No,No,Sometimes,Don't know,No,Don't know,Very difficult
+475,57,male,No,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+476,27,male,Yes,Yes,Sometimes,No,Not sure,Don't know,Somewhat difficult
+477,23,male,Yes,Yes,Often,Don't know,No,Don't know,Don't know
+478,18,male,No,No,Don't Know,Don't know,No,Don't know,Very easy
+479,30,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+480,23,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+481,43,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+482,18,female,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+483,29,male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+484,48,male,No,No,Never,Don't know,No,Don't know,Don't know
+485,43,male,No,Yes,Sometimes,No,Yes,Don't know,Somewhat easy
+486,28,female,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+487,30,male,Yes,Yes,Often,No,Yes,Yes,Very easy
+488,26,male,No,No,Sometimes,No,No,Yes,Very easy
+489,33,male,No,No,Never,No,No,Don't know,Don't know
+490,31,male,No,No,Don't Know,Yes,Not sure,Yes,Don't know
+491,30,male,No,No,Rarely,Don't know,Not sure,Don't know,Don't know
+492,27,male,No,No,Don't Know,No,No,Don't know,Somewhat difficult
+493,24,female,Yes,Yes,Sometimes,No,No,Don't know,Don't know
+494,25,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+495,23,female,Yes,Yes,Often,Yes,Not sure,Don't know,Don't know
+496,36,male,No,Yes,Sometimes,Yes,Not sure,Don't know,Somewhat difficult
+497,25,female,Yes,Yes,Often,Don't know,Not sure,Yes,Somewhat difficult
+498,54,male,No,Yes,Sometimes,No,Yes,Yes,Very easy
+499,34,male,No,No,Rarely,Don't know,Not sure,Don't know,Somewhat easy
+500,38,female,No,Yes,Don't Know,Yes,Yes,Yes,Don't know
+501,40,male,Yes,No,Don't Know,No,No,No,Don't know
+502,32,male,No,No,Don't Know,No,Not sure,Don't know,Don't know
+503,25,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+504,35,female,No,Yes,Sometimes,No,Yes,Don't know,Don't know
+505,46,male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+506,42,male,No,No,Never,Yes,No,Don't know,Very difficult
+507,32,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+508,47,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+509,22,male,No,No,Don't Know,Yes,Not sure,Yes,Don't know
+510,33,female,No,Yes,Sometimes,Yes,Yes,Don't know,Very easy
+511,25,female,No,No,Sometimes,No,No,No,Somewhat easy
+512,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+513,39,male,No,No,Never,Yes,Yes,Yes,Very easy
+514,38,male,Yes,Yes,Sometimes,Yes,Not sure,Yes,Don't know
+515,43,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+516,46,male,No,Yes,Rarely,Yes,Not sure,Yes,Don't know
+517,38,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+518,33,male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+519,34,male,Yes,Yes,Often,No,Yes,Yes,Very easy
+520,62,male,No,No,Never,Yes,Yes,Don't know,Don't know
+521,23,female,No,No,Don't Know,Don't know,Not sure,Yes,Don't know
+522,35,male,No,No,Don't Know,No,No,Don't know,Don't know
+523,25,male,Yes,No,Rarely,Don't know,Not sure,Don't know,Don't know
+524,36,male,Yes,Yes,Sometimes,Don't know,Yes,Yes,Somewhat difficult
+525,41,female,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+526,24,male,No,No,Sometimes,Yes,Yes,Yes,Somewhat easy
+527,51,male,No,Yes,Sometimes,No,Yes,No,Somewhat difficult
+528,29,male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+529,31,female,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+530,27,male,No,No,Don't Know,No,No,Don't know,Don't know
+531,31,male,No,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy
+532,27,female,Yes,No,Sometimes,No,No,No,Very difficult
+533,23,male,No,No,Rarely,Don't know,No,Don't know,Very easy
+534,21,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+535,27,female,Yes,Yes,Sometimes,No,Yes,No,Somewhat difficult
+536,39,male,Yes,Yes,Often,Yes,Yes,Don't know,Somewhat easy
+537,26,male,Yes,Yes,Never,Don't know,No,Don't know,Don't know
+538,27,male,No,No,Never,Don't know,No,Don't know,Don't know
+539,22,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+540,26,female,Yes,Yes,Often,Don't know,No,Don't know,Somewhat difficult
+541,31,female,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+542,32,male,No,No,Never,Don't know,No,Don't know,Don't know
+543,28,female,Yes,Yes,Often,Yes,No,Don't know,Don't know
+544,28,trans,Yes,Yes,Rarely,No,Not sure,Yes,Somewhat difficult
+545,23,female,No,No,Don't Know,Don't know,Not sure,Don't know,Very easy
+546,30,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+547,36,male,Yes,Yes,Sometimes,Yes,No,Don't know,Somewhat difficult
+548,21,male,Yes,No,Don't Know,Yes,Yes,Yes,Don't know
+549,30,male,No,No,Often,No,No,Don't know,Somewhat easy
+550,25,female,Yes,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+551,32,male,No,Yes,Sometimes,No,No,Don't know,Very easy
+552,29,female,No,Yes,Sometimes,No,No,Don't know,Don't know
+553,21,trans,No,Yes,Sometimes,No,Yes,Yes,Somewhat easy
+554,27,female,Yes,Yes,Rarely,No,No,Don't know,Somewhat easy
+555,32,female,No,Yes,Often,Don't know,Not sure,Don't know,Don't know
+556,34,male,No,No,Sometimes,Yes,Yes,Yes,Very easy
+557,33,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+558,22,male,Yes,Yes,Sometimes,No,Not sure,Don't know,Somewhat easy
+559,24,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+560,65,male,No,No,Don't Know,No,No,Don't know,Very easy
+561,27,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+562,33,male,No,No,Never,Don't know,Not sure,Yes,Very easy
+563,36,male,No,Yes,Rarely,Don't know,Not sure,Don't know,Don't know
+564,40,male,No,No,Never,No,No,Don't know,Somewhat difficult
+565,28,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+566,39,male,No,Yes,Sometimes,Yes,Not sure,Yes,Don't know
+567,32,male,No,Yes,Sometimes,Yes,No,Don't know,Somewhat easy
+568,31,male,Yes,No,Sometimes,Yes,Not sure,Don't know,Somewhat easy
+569,38,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+570,23,male,Yes,Yes,Rarely,No,Yes,Don't know,Don't know
+571,42,male,No,Yes,Often,Yes,Yes,Yes,Somewhat easy
+572,27,female,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+573,26,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+574,50,male,No,No,Never,No,Yes,Don't know,Don't know
+575,37,male,Yes,No,Never,Don't know,No,Don't know,Somewhat easy
+576,23,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+577,33,male,Yes,No,Sometimes,Don't know,Not sure,Yes,Very easy
+578,29,male,No,No,Never,Yes,Yes,Yes,Very difficult
+579,34,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+580,41,male,Yes,Yes,Often,Yes,No,Don't know,Don't know
+581,50,male,Yes,No,Don't Know,Don't know,No,Don't know,Don't know
+582,29,male,No,Yes,Never,Yes,Not sure,Yes,Somewhat difficult
+583,35,male,No,No,Never,No,Yes,Yes,Very easy
+584,27,male,No,No,Sometimes,No,No,Yes,Don't know
+585,40,female,No,No,Never,Don't know,Not sure,Don't know,Somewhat easy
+586,27,male,No,Yes,Often,No,No,Don't know,Don't know
+587,29,female,No,No,Never,Yes,Yes,Yes,Don't know
+588,31,male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy
+589,43,male,No,Yes,Sometimes,No,Yes,Don't know,Somewhat easy
+590,34,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+591,29,male,Yes,Yes,Sometimes,Don't know,No,No,Somewhat difficult
+592,19,male,Yes,Yes,Sometimes,No,No,Don't know,Don't know
+593,41,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+594,29,male,Yes,No,Never,Yes,Yes,Don't know,Don't know
+595,23,male,No,No,Rarely,Yes,Not sure,Don't know,Don't know
+596,24,female,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Somewhat difficult
+597,31,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+598,43,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+599,31,male,Yes,Yes,Rarely,No,No,Don't know,Somewhat difficult
+600,29,male,Yes,No,Often,Yes,Yes,Don't know,Don't know
+601,35,male,Yes,No,Don't Know,No,No,Don't know,Very easy
+602,33,male,Yes,Yes,Sometimes,Yes,Not sure,Yes,Somewhat difficult
+603,30,female,Yes,Yes,Often,No,Yes,Yes,Somewhat difficult
+604,27,male,No,No,Don't Know,Yes,Not sure,Yes,Don't know
+605,32,male,No,No,Sometimes,No,Yes,Don't know,Don't know
+606,50,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+607,24,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+608,27,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+609,27,male,No,No,Never,No,No,Don't know,Don't know
+610,32,male,No,Yes,Sometimes,No,Yes,Yes,Somewhat easy
+611,42,male,No,No,Rarely,No,Yes,Don't know,Very easy
+612,37,male,No,No,Often,Don't know,No,Don't know,Don't know
+613,30,male,No,No,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+614,29,male,No,No,Rarely,Yes,No,Don't know,Very easy
+615,30,male,No,Yes,Often,No,Not sure,Don't know,Somewhat difficult
+616,35,male,No,No,Never,Yes,No,Don't know,Don't know
+617,35,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very difficult
+618,38,male,Yes,No,Often,No,Not sure,Don't know,Don't know
+619,22,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+620,24,male,Yes,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+621,22,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+622,31,female,No,Yes,Often,Yes,Yes,Don't know,Very easy
+623,23,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+624,31,female,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+625,28,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Somewhat difficult
+626,37,trans,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+627,34,male,Yes,Yes,Sometimes,No,Yes,Yes,Somewhat easy
+628,32,trans,No,No,Sometimes,No,Yes,Yes,Very difficult
+629,28,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+630,24,female,No,Yes,Sometimes,No,No,Don't know,Don't know
+631,56,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+632,31,male,No,No,Sometimes,No,No,No,Very easy
+633,34,female,No,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+634,35,male,No,Yes,Rarely,Don't know,No,Don't know,Very easy
+635,28,male,No,No,Never,No,No,Don't know,Somewhat easy
+636,36,male,Yes,Yes,Often,No,No,Don't know,Somewhat easy
+637,30,male,No,Yes,Often,No,No,Yes,Somewhat easy
+638,35,male,No,No,Don't Know,Yes,Not sure,Yes,Very easy
+639,49,male,Yes,Yes,Sometimes,No,Yes,Don't know,Somewhat difficult
+640,36,male,No,No,Don't Know,Yes,Yes,Yes,Very easy
+641,35,male,No,No,Don't Know,No,No,Don't know,Very easy
+642,29,female,Yes,Yes,Sometimes,Yes,Yes,No,Somewhat difficult
+643,57,male,No,No,Never,Yes,Yes,Yes,Somewhat difficult
+644,31,female,Yes,Yes,Rarely,Yes,No,No,Don't know
+645,37,male,No,No,Never,No,No,Don't know,Don't know
+646,25,male,Yes,Yes,Sometimes,No,No,Don't know,Don't know
+647,30,male,No,No,Sometimes,No,No,Don't know,Very easy
+648,26,female,Yes,No,Sometimes,No,Yes,Don't know,Somewhat easy
+649,22,female,No,No,Often,No,No,Don't know,Don't know
+650,39,male,No,No,Rarely,Don't know,No,Don't know,Don't know
+651,29,male,Yes,Yes,Never,Don't know,Not sure,Don't know,Don't know
+652,54,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Very easy
+653,34,female,Yes,No,Never,Don't know,No,Don't know,Don't know
+654,32,male,No,Yes,Never,Yes,Not sure,Don't know,Very easy
+655,25,male,No,No,Don't Know,No,No,Don't know,Don't know
+656,29,male,No,No,Rarely,No,No,No,Somewhat difficult
+657,32,male,No,No,Never,No,No,Don't know,Don't know
+658,30,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+659,31,male,No,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+660,20,female,No,No,Rarely,Yes,Yes,Yes,Somewhat easy
+661,27,male,No,No,Never,Don't know,No,Don't know,Don't know
+662,32,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+663,26,male,No,No,Never,No,No,Don't know,Somewhat difficult
+664,30,male,No,No,Sometimes,Don't know,No,Yes,Very easy
+665,30,male,No,Yes,Sometimes,No,No,Don't know,Very difficult
+666,22,male,No,No,Don't Know,Don't know,No,Don't know,Very easy
+667,24,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+668,26,male,No,No,Never,No,No,Don't know,Don't know
+669,43,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+670,26,male,No,No,Never,No,Not sure,Don't know,Somewhat difficult
+671,23,male,Yes,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+672,26,male,No,No,Don't Know,Yes,Not sure,Don't know,Somewhat easy
+673,26,female,Yes,No,Never,Don't know,No,Don't know,Don't know
+674,35,male,Yes,No,Sometimes,Don't know,No,Don't know,Don't know
+675,28,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+676,22,male,No,No,Don't Know,No,No,Don't know,Don't know
+677,29,female,Yes,Yes,Rarely,Don't know,No,Don't know,Don't know
+678,29,male,No,No,Don't Know,No,Yes,Yes,Very easy
+679,45,male,No,Yes,Often,Yes,Not sure,Don't know,Very easy
+680,33,male,No,Yes,Rarely,No,No,Don't know,Somewhat easy
+681,38,male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+682,19,trans,Yes,Yes,Often,Don't know,Not sure,Don't know,Somewhat difficult
+683,29,female,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+684,21,female,No,No,Don't Know,No,No,Don't know,Don't know
+685,23,female,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+686,33,female,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+687,49,male,Yes,Yes,Sometimes,Yes,Not sure,Yes,Somewhat easy
+688,28,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+689,27,female,No,Yes,Sometimes,Don't know,Not sure,Yes,Very easy
+690,23,male,No,Yes,Sometimes,Yes,No,Don't know,Somewhat easy
+691,29,male,No,No,Never,No,No,Yes,Somewhat easy
+692,30,male,No,No,Don't Know,Don't know,No,Yes,Somewhat easy
+693,28,female,No,No,Don't Know,Yes,Not sure,Don't know,Somewhat easy
+694,32,male,No,No,Don't Know,No,No,Don't know,Don't know
+695,32,male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+696,37,male,No,No,Don't Know,No,No,Don't know,Somewhat easy
+697,39,female,No,No,Don't Know,No,Yes,Don't know,Very difficult
+698,31,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+699,29,male,No,No,Don't Know,No,No,Don't know,Somewhat difficult
+700,30,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+701,33,male,Yes,Yes,Rarely,No,Yes,No,Very difficult
+702,37,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+703,23,male,No,Yes,Often,Yes,Yes,Yes,Somewhat easy
+704,43,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Somewhat easy
+705,32,male,No,Yes,Rarely,Don't know,No,Don't know,Don't know
+706,26,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+707,32,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Very easy
+708,37,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+709,29,male,No,Yes,Often,Yes,Yes,Yes,Very easy
+710,34,male,No,No,Don't Know,No,No,Don't know,Somewhat easy
+711,27,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+712,30,male,Yes,No,Never,Don't know,No,Don't know,Very easy
+713,29,male,No,No,Never,Yes,Yes,Yes,Don't know
+714,32,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Very difficult
+715,31,male,No,Yes,Sometimes,No,No,Don't know,Somewhat difficult
+716,25,male,No,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+717,37,male,No,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+718,29,male,Yes,No,Don't Know,No,No,Don't know,Very easy
+719,27,male,No,No,Don't Know,Yes,Not sure,Don't know,Don't know
+720,33,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+721,30,male,Yes,Yes,Sometimes,Don't know,No,No,Very difficult
+722,29,male,No,No,Don't Know,No,Yes,Don't know,Somewhat difficult
+723,25,male,Yes,Yes,Never,Don't know,No,Don't know,Don't know
+724,33,male,Yes,Yes,Sometimes,No,Yes,Don't know,Don't know
+725,31,male,No,No,Never,No,No,No,Don't know
+726,21,male,No,No,Rarely,Don't know,No,Don't know,Very easy
+727,30,male,Yes,Yes,Sometimes,Don't know,No,No,Very difficult
+728,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+729,43,male,No,Yes,Sometimes,No,No,Yes,Very difficult
+730,37,male,No,Yes,Often,No,No,Don't know,Don't know
+731,24,male,No,No,Don't Know,No,No,Don't know,Don't know
+732,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Very easy
+733,31,male,No,No,Don't Know,Yes,Yes,Yes,Don't know
+734,31,male,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat easy
+735,33,male,No,No,Never,No,Not sure,Don't know,Very easy
+736,43,male,No,No,Don't Know,Yes,Yes,Yes,Don't know
+737,33,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+738,27,male,No,No,Don't Know,No,No,Yes,Don't know
+739,36,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+740,37,male,Yes,Yes,Sometimes,No,Yes,Yes,Very easy
+741,32,male,No,No,Don't Know,No,Yes,Don't know,Very difficult
+742,39,male,No,Yes,Sometimes,No,No,Don't know,Very easy
+743,31,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+744,36,male,No,Yes,Sometimes,Yes,Yes,Don't know,Very difficult
+745,30,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+746,28,male,No,No,Don't Know,Yes,Not sure,Yes,Very easy
+747,32,male,No,No,Don't Know,No,No,No,Somewhat difficult
+748,35,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+749,19,male,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+750,33,male,Yes,No,Don't Know,Yes,Yes,Don't know,Very easy
+751,42,male,No,No,Don't Know,Don't know,Not sure,Yes,Very easy
+752,37,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+753,40,male,No,No,Never,No,No,Yes,Very easy
+754,36,male,No,No,Never,Yes,Yes,Yes,Very easy
+755,29,female,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+756,38,female,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+757,26,male,Yes,Yes,Sometimes,Yes,No,Don't know,Somewhat difficult
+758,34,male,No,No,Rarely,No,No,Yes,Somewhat easy
+759,21,male,No,Yes,Often,No,Yes,No,Don't know
+760,31,male,Yes,No,Sometimes,No,Yes,Yes,Somewhat easy
+761,37,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+762,37,male,Yes,Yes,Sometimes,No,No,Don't know,Very easy
+763,38,male,Yes,Yes,Sometimes,No,No,No,Very difficult
+764,27,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+765,39,male,No,No,Don't Know,No,No,Yes,Somewhat easy
+766,33,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+767,27,male,No,No,Never,Don't know,Not sure,Don't know,Somewhat easy
+768,36,female,No,Yes,Never,Yes,No,Don't know,Don't know
+769,28,male,No,No,Never,Don't know,Not sure,Don't know,Somewhat easy
+770,39,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+771,33,male,Yes,Yes,Sometimes,No,Yes,Yes,Very easy
+772,32,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+773,28,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+774,37,male,Yes,Yes,Rarely,No,No,Yes,Somewhat easy
+775,39,male,No,Yes,Sometimes,Yes,Yes,Yes,Very easy
+776,43,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+777,32,trans,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+778,27,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+779,31,female,No,No,Don't Know,Don't know,No,Don't know,Don't know
+780,43,male,No,Yes,Never,Don't know,No,Don't know,Don't know
+781,33,male,No,Yes,Sometimes,No,Yes,Yes,Somewhat difficult
+782,34,male,Yes,Yes,Sometimes,Don't know,Not sure,Yes,Very easy
+783,33,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+784,25,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+785,25,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+786,32,male,Yes,No,Don't Know,No,Yes,Yes,Somewhat easy
+787,25,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+788,37,male,No,No,Don't Know,Don't know,No,Don't know,Somewhat easy
+789,39,male,No,Yes,Never,Yes,Yes,Yes,Somewhat easy
+790,29,male,No,No,Rarely,Don't know,Not sure,Don't know,Somewhat easy
+791,33,male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+792,37,female,No,Yes,Often,Don't know,Not sure,Yes,Somewhat difficult
+793,35,female,No,Yes,Sometimes,Yes,No,Yes,Very difficult
+794,22,female,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Very difficult
+795,38,male,No,No,Never,Yes,Yes,Don't know,Somewhat easy
+796,32,female,Yes,Yes,Often,Yes,No,Don't know,Don't know
+797,28,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+798,27,male,Yes,No,Don't Know,No,No,Don't know,Don't know
+799,35,female,No,Yes,Sometimes,Don't know,No,Don't know,Very easy
+800,29,male,No,No,Never,Yes,Yes,Yes,Very easy
+801,23,male,Yes,Yes,Sometimes,No,Yes,Don't know,Very easy
+802,39,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+803,30,female,No,No,Don't Know,Yes,Yes,Yes,Very easy
+804,32,male,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat easy
+805,28,trans,No,Yes,Sometimes,No,Yes,Don't know,Somewhat difficult
+806,40,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+807,36,female,Yes,No,Don't Know,Don't know,No,Don't know,Don't know
+808,27,male,No,No,Don't Know,Don't know,Not sure,Don't know,Very easy
+809,41,male,Yes,No,Sometimes,Yes,Yes,Don't know,Don't know
+810,29,male,No,No,Never,Don't know,No,Don't know,Don't know
+811,29,male,No,Yes,Sometimes,No,No,Don't know,Somewhat difficult
+812,35,male,No,Yes,Often,No,No,Yes,Very difficult
+813,28,male,No,Yes,Never,No,Yes,Don't know,Don't know
+814,36,female,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+815,39,female,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+816,39,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very difficult
+817,44,male,Yes,Yes,Sometimes,No,Yes,No,Very easy
+818,26,trans,No,Yes,Sometimes,No,Not sure,Yes,Very easy
+819,35,male,Yes,Yes,Often,No,Yes,Don't know,Somewhat easy
+820,40,female,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+821,35,male,Yes,Yes,Often,No,Yes,Don't know,Somewhat easy
+822,38,male,No,No,Never,No,Yes,No,Very difficult
+823,34,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+824,43,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+825,48,female,Yes,No,Often,Don't know,No,No,Very difficult
+826,20,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+827,40,male,No,No,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+828,29,female,No,Yes,Rarely,Don't know,No,Don't know,Don't know
+829,35,male,Yes,Yes,Sometimes,No,Yes,Yes,Don't know
+830,29,male,Yes,No,Sometimes,Yes,Yes,Yes,Very easy
+831,40,male,No,No,Never,Yes,Not sure,Don't know,Don't know
+832,29,male,No,Yes,Rarely,No,Yes,Yes,Very easy
+833,29,female,Yes,Yes,Rarely,Yes,Not sure,Don't know,Don't know
+834,34,male,No,Yes,Sometimes,No,No,Don't know,Don't know
+835,44,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat difficult
+836,24,female,Yes,Yes,Often,Yes,Yes,Yes,Very easy
+837,47,female,No,No,Don't Know,Don't know,No,Don't know,Very difficult
+838,43,male,Yes,No,Don't Know,Don't know,No,Don't know,Very easy
+839,36,male,No,No,Rarely,Yes,Yes,Yes,Somewhat difficult
+840,43,male,No,Yes,Sometimes,Don't know,No,Don't know,Very difficult
+841,36,male,No,No,Sometimes,No,No,Don't know,Somewhat difficult
+842,31,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+843,35,male,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+844,33,male,Yes,No,Don't Know,Yes,No,Yes,Somewhat difficult
+845,37,male,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+846,34,male,No,Yes,Sometimes,Don't know,No,Yes,Don't know
+847,36,male,No,Yes,Sometimes,No,No,Don't know,Very easy
+848,40,male,Yes,Yes,Sometimes,No,Yes,Yes,Very easy
+849,40,male,No,No,Rarely,Yes,Yes,Yes,Don't know
+850,42,male,No,Yes,Sometimes,No,Yes,Don't know,Somewhat easy
+851,23,male,Yes,No,Don't Know,Yes,Yes,Yes,Don't know
+852,21,male,Yes,No,Never,No,No,Yes,Somewhat easy
+853,26,male,No,No,Sometimes,No,No,Don't know,Very difficult
+854,31,male,Yes,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+855,25,male,Yes,No,Don't Know,Yes,Yes,Yes,Very easy
+856,51,male,No,No,Never,Yes,Yes,Yes,Very easy
+857,24,male,No,No,Don't Know,Don't know,Not sure,Yes,Somewhat easy
+858,33,male,No,No,Don't Know,No,No,Don't know,Don't know
+859,32,male,Yes,Yes,Rarely,No,No,No,Don't know
+860,32,male,Yes,Yes,Rarely,No,No,No,Don't know
+861,26,male,No,Yes,Rarely,No,Not sure,Don't know,Somewhat difficult
+862,23,male,No,No,Never,Don't know,No,Don't know,Don't know
+863,33,male,Yes,Yes,Often,No,Yes,Don't know,Very difficult
+864,46,male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+865,34,male,No,No,Don't Know,No,No,No,Somewhat difficult
+866,35,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+867,39,male,No,No,Don't Know,No,Yes,Don't know,Very difficult
+868,32,male,No,No,Sometimes,No,Yes,Yes,Somewhat easy
+869,43,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+870,56,male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+871,32,female,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat difficult
+872,41,male,No,No,Don't Know,Yes,Yes,Yes,Don't know
+873,39,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+874,37,male,Yes,No,Don't Know,Yes,Yes,Yes,Very easy
+875,30,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Very difficult
+876,31,male,No,No,Don't Know,Yes,No,Yes,Somewhat easy
+877,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+878,23,female,Yes,No,Never,No,No,Don't know,Somewhat easy
+879,31,male,No,Yes,Never,Yes,Yes,Yes,Very easy
+880,29,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+881,30,male,No,No,Never,Yes,Yes,Yes,Very easy
+882,37,male,No,No,Never,Yes,No,Don't know,Don't know
+883,36,male,No,No,Never,Yes,No,Don't know,Somewhat difficult
+884,35,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+885,41,male,Yes,No,Never,Don't know,No,Don't know,Don't know
+886,31,male,No,Yes,Rarely,Don't know,Not sure,Don't know,Don't know
+887,38,male,Yes,No,Don't Know,Yes,Yes,Don't know,Somewhat easy
+888,26,male,No,No,Don't Know,No,No,Yes,Very easy
+889,39,male,Yes,No,Sometimes,Yes,No,Don't know,Don't know
+890,42,male,Yes,No,Sometimes,Yes,Not sure,Don't know,Don't know
+891,32,male,Yes,Yes,Rarely,No,Yes,Don't know,Very difficult
+892,29,male,Yes,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+893,30,male,Yes,No,Never,Yes,No,Don't know,Very difficult
+894,40,male,Yes,Yes,Often,Don't know,Not sure,Don't know,Don't know
+895,51,male,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat difficult
+896,33,male,No,No,Never,Yes,Yes,Yes,Somewhat easy
+897,34,male,No,Yes,Sometimes,No,Not sure,Yes,Somewhat difficult
+898,50,male,No,No,Never,No,Yes,Yes,Somewhat easy
+899,24,male,No,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+900,25,male,Yes,Yes,Rarely,No,No,Don't know,Don't know
+901,43,male,Yes,Yes,Rarely,No,No,Don't know,Very difficult
+902,25,female,No,Yes,Often,Yes,Yes,Yes,Very easy
+903,24,male,No,No,Don't Know,No,Yes,Yes,Very easy
+904,51,male,No,No,Never,No,Yes,Yes,Somewhat difficult
+905,49,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+906,30,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+907,25,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+908,36,male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+909,48,male,No,Yes,Never,Yes,Yes,Yes,Don't know
+910,48,male,No,Yes,Sometimes,No,No,Don't know,Somewhat easy
+911,53,male,No,Yes,Rarely,Yes,Yes,Don't know,Don't know
+912,24,female,Yes,Yes,Often,No,No,Don't know,Very easy
+913,33,male,Yes,Yes,Sometimes,Don't know,Yes,Don't know,Somewhat easy
+914,25,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+915,30,male,No,Yes,Sometimes,No,No,Don't know,Somewhat difficult
+916,30,male,No,No,Never,No,Yes,Yes,Somewhat easy
+917,34,male,No,Yes,Sometimes,No,No,Yes,Somewhat difficult
+918,31,male,No,No,Don't Know,Yes,Yes,Yes,Very easy
+919,22,female,Yes,Yes,Often,Don't know,Not sure,Don't know,Don't know
+920,28,male,Yes,No,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+921,35,male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat difficult
+922,28,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+923,42,male,No,Yes,Sometimes,No,Yes,Yes,Somewhat difficult
+924,33,male,Yes,No,Don't Know,Yes,No,Don't know,Very easy
+925,29,male,No,No,Sometimes,Yes,No,Don't know,Don't know
+926,43,male,Yes,No,Sometimes,Yes,Not sure,Don't know,Don't know
+927,29,male,No,No,Don't Know,Yes,Yes,Don't know,Somewhat easy
+928,25,male,No,No,Don't Know,Yes,No,Yes,Don't know
+929,31,male,Yes,No,Never,Don't know,No,Don't know,Very easy
+930,35,female,Yes,Yes,Sometimes,Yes,Not sure,Yes,Somewhat difficult
+931,34,male,No,No,Often,Don't know,No,Don't know,Very easy
+932,43,male,No,Yes,Sometimes,Yes,Yes,Yes,Very difficult
+933,38,male,Yes,Yes,Sometimes,No,Not sure,Don't know,Very difficult
+934,26,male,Yes,Yes,Sometimes,Don't know,Not sure,Yes,Very difficult
+935,38,male,Yes,Yes,Rarely,No,No,Yes,Very difficult
+936,42,male,No,Yes,Often,Don't know,No,Don't know,Don't know
+937,33,male,Yes,Yes,Don't Know,Don't know,No,Don't know,Don't know
+938,32,male,No,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+939,44,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+940,28,male,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+941,40,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very difficult
+942,31,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+943,32,male,Yes,No,Sometimes,Yes,Yes,Don't know,Don't know
+944,28,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat easy
+945,39,male,Yes,Yes,Often,Yes,Yes,Yes,Don't know
+946,45,male,No,No,Don't Know,Yes,Yes,Don't know,Don't know
+947,43,male,No,Yes,Rarely,Yes,Yes,Don't know,Somewhat easy
+948,35,male,No,Yes,Sometimes,Yes,Yes,Don't know,Very difficult
+949,40,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+950,34,male,No,Yes,Rarely,No,Yes,Yes,Very easy
+951,24,male,Yes,Yes,Often,Don't know,Yes,No,Somewhat easy
+952,61,male,No,Yes,Sometimes,No,No,Don't know,Very difficult
+953,36,female,Yes,Yes,Rarely,Don't know,No,Don't know,Don't know
+954,38,male,No,No,Don't Know,No,No,Yes,Don't know
+955,33,male,Yes,Yes,Often,Don't know,Not sure,Yes,Somewhat easy
+956,30,male,Yes,No,Never,Don't know,No,Don't know,Don't know
+957,34,male,Yes,Yes,Rarely,Yes,Yes,Yes,Very easy
+958,26,male,No,Yes,Rarely,Yes,Not sure,Don't know,Don't know
+959,33,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+960,32,male,No,No,Don't Know,Don't know,No,Don't know,Very easy
+961,25,male,No,No,Sometimes,No,Yes,Yes,Somewhat easy
+962,35,male,No,Yes,Sometimes,Don't know,No,Don't know,Somewhat difficult
+963,24,male,Yes,No,Often,Don't know,Not sure,Don't know,Don't know
+964,55,male,No,Yes,Often,Yes,Yes,Don't know,Somewhat easy
+965,33,male,Yes,Yes,Sometimes,No,Yes,No,Very difficult
+966,26,female,Yes,Yes,Sometimes,No,No,Don't know,Very easy
+967,25,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+968,45,male,Yes,No,Rarely,Don't know,No,Don't know,Don't know
+969,33,female,No,Yes,Sometimes,No,Yes,Yes,Very easy
+970,43,male,No,No,Sometimes,No,Not sure,Don't know,Very difficult
+971,30,male,No,Yes,Sometimes,No,Yes,No,Very difficult
+972,40,male,Yes,Yes,Rarely,Don't know,Not sure,Don't know,Don't know
+973,49,male,Yes,No,Never,Yes,Yes,Yes,Don't know
+974,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat easy
+975,26,male,No,No,Don't Know,Don't know,No,Don't know,Don't know
+976,38,male,No,No,Never,Yes,Yes,Yes,Somewhat easy
+977,27,male,Yes,No,Don't Know,Yes,Yes,Yes,Somewhat easy
+978,26,male,No,No,Never,Yes,No,No,Somewhat easy
+979,28,male,Yes,Yes,Often,No,No,Don't know,Somewhat easy
+980,40,male,Yes,Yes,Sometimes,No,No,Don't know,Don't know
+981,37,female,Yes,Yes,Rarely,No,Yes,Yes,Somewhat easy
+982,34,female,Yes,Yes,Often,Yes,Yes,No,Somewhat easy
+983,28,male,Yes,Yes,Often,Don't know,Not sure,Don't know,Don't know
+984,27,male,No,No,Never,Yes,Not sure,Yes,Very easy
+985,29,male,No,Yes,Sometimes,No,No,Don't know,Very easy
+986,39,female,Yes,No,Rarely,Don't know,Not sure,Don't know,Somewhat difficult
+987,28,male,No,No,Often,No,No,No,Somewhat difficult
+988,23,male,Yes,No,Sometimes,Yes,Not sure,Yes,Somewhat easy
+990,38,male,No,No,Don't Know,No,No,Yes,Somewhat easy
+991,19,male,No,No,Don't Know,Yes,No,Don't know,Very easy
+992,30,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+993,28,male,No,No,Don't Know,No,Yes,Yes,Very easy
+994,20,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+995,35,male,No,No,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+996,39,male,No,Yes,Rarely,Yes,Yes,Yes,Very easy
+997,31,female,Yes,No,Never,Yes,Not sure,Don't know,Don't know
+998,32,male,No,No,Rarely,No,No,Don't know,Don't know
+999,27,male,No,No,Don't Know,No,No,Don't know,Don't know
+1000,25,male,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy
+1001,42,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+1002,34,male,Yes,Yes,Often,Yes,Yes,Yes,Very easy
+1003,26,female,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+1004,35,male,Yes,Yes,Sometimes,No,Yes,Yes,Very easy
+1005,34,male,No,No,Never,Don't know,No,Don't know,Very easy
+1006,38,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+1007,34,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+1008,39,male,Yes,Yes,Sometimes,No,Yes,Yes,Somewhat easy
+1009,44,female,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1010,40,male,No,No,Don't Know,Yes,Yes,Yes,Don't know
+1011,33,female,No,No,Never,No,Yes,Yes,Somewhat easy
+1012,24,female,Yes,No,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+1013,38,female,Yes,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+1014,31,male,No,No,Sometimes,Yes,Not sure,Yes,Don't know
+1015,23,male,No,No,Don't Know,Don't know,Not sure,Yes,Very easy
+1016,26,female,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat easy
+1017,46,trans,No,Yes,Often,Yes,Yes,Don't know,Don't know
+1018,30,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+1019,25,male,No,No,Rarely,Don't know,No,Don't know,Somewhat easy
+1020,19,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+1021,30,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+1022,32,male,No,No,Never,Yes,Yes,Don't know,Somewhat easy
+1023,32,male,No,No,Don't Know,No,No,Don't know,Don't know
+1024,37,male,Yes,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+1025,42,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Don't know
+1026,25,female,No,No,Never,Yes,Yes,Don't know,Don't know
+1027,19,male,No,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+1028,40,female,Yes,No,Never,Yes,Yes,Don't know,Don't know
+1029,34,male,No,No,Don't Know,Yes,Not sure,Don't know,Don't know
+1030,26,male,Yes,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1031,31,male,Yes,Yes,Rarely,Don't know,Not sure,Yes,Don't know
+1032,40,male,Yes,No,Sometimes,Yes,Not sure,Don't know,Don't know
+1033,31,female,Yes,Yes,Often,No,No,No,Very difficult
+1034,36,male,No,No,Never,Don't know,No,Don't know,Don't know
+1035,35,male,Yes,No,Sometimes,No,Yes,Don't know,Don't know
+1036,26,male,Yes,Yes,Sometimes,No,No,Yes,Don't know
+1037,44,male,No,No,Don't Know,Don't know,No,Yes,Don't know
+1038,34,female,No,No,Sometimes,No,Not sure,Don't know,Very easy
+1039,35,male,No,No,Don't Know,No,No,Don't know,Don't know
+1040,28,female,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat easy
+1041,33,male,No,No,Don't Know,Yes,No,Yes,Don't know
+1042,40,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1043,26,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1044,29,female,No,Yes,Often,Yes,Yes,Don't know,Don't know
+1045,26,female,Yes,Yes,Sometimes,Yes,Not sure,Yes,Don't know
+1046,33,male,Yes,Yes,Sometimes,No,Not sure,Don't know,Somewhat easy
+1047,28,male,Yes,No,Sometimes,No,No,Don't know,Somewhat easy
+1048,41,male,No,Yes,Often,No,Yes,Yes,Very difficult
+1049,39,male,Yes,Yes,Sometimes,No,Yes,Yes,Somewhat difficult
+1050,26,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1051,23,female,Yes,No,Sometimes,No,No,Don't know,Somewhat difficult
+1052,35,male,Yes,Yes,Often,Don't know,Not sure,Yes,Very easy
+1053,36,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+1054,42,male,No,No,Rarely,Don't know,No,Don't know,Don't know
+1055,39,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+1056,27,male,No,No,Never,Don't know,No,Don't know,Don't know
+1057,33,male,No,No,Never,Don't know,No,No,Very easy
+1058,31,male,Yes,Yes,Often,Yes,Not sure,Don't know,Don't know
+1059,28,female,No,Yes,Rarely,Yes,Yes,Yes,Very easy
+1060,29,female,No,Yes,Often,Yes,No,Don't know,Somewhat easy
+1061,27,male,No,Yes,Sometimes,Don't know,Not sure,Yes,Very difficult
+1062,44,male,No,No,Never,Don't know,No,Yes,Somewhat difficult
+1063,25,male,No,Yes,Often,Don't know,No,Don't know,Somewhat easy
+1064,24,male,Yes,Yes,Sometimes,No,No,Don't know,Somewhat easy
+1065,25,male,Yes,Yes,Often,Don't know,No,Yes,Don't know
+1066,34,male,No,No,Never,Yes,Not sure,Don't know,Somewhat easy
+1067,26,male,No,No,Never,Yes,Yes,Don't know,Somewhat difficult
+1068,48,male,No,No,Never,Yes,Yes,Yes,Don't know
+1069,34,male,No,No,Don't Know,No,No,Don't know,Very difficult
+1070,39,female,No,Yes,Sometimes,No,No,Don't know,Don't know
+1071,43,male,No,No,Sometimes,Yes,Not sure,Don't know,Don't know
+1072,41,male,No,No,Rarely,Yes,Yes,Don't know,Don't know
+1073,25,male,No,No,Never,Don't know,No,Don't know,Don't know
+1074,31,male,No,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+1075,40,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1076,43,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Don't know
+1077,27,female,Yes,Yes,Often,Yes,Yes,Yes,Very difficult
+1078,37,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1079,32,male,No,Yes,Sometimes,No,No,Yes,Very difficult
+1080,25,male,Yes,Yes,Often,No,Yes,Yes,Very easy
+1081,29,male,Yes,Yes,Often,Don't know,Not sure,Don't know,Very difficult
+1082,30,female,Yes,Yes,Often,Yes,No,Don't know,Somewhat difficult
+1083,34,female,Yes,Yes,Often,Don't know,No,Don't know,Somewhat easy
+1084,32,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+1085,37,male,No,No,Don't Know,Don't know,No,Yes,Very easy
+1086,41,male,No,Yes,Sometimes,Don't know,No,Don't know,Somewhat difficult
+1087,38,male,Yes,No,Never,Yes,Not sure,Don't know,Don't know
+1088,32,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1089,28,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1090,31,male,No,No,Never,No,Yes,Yes,Very easy
+1091,43,male,Yes,No,Never,Yes,Yes,Don't know,Somewhat easy
+1092,32,male,Yes,Yes,Often,No,Yes,Don't know,Very difficult
+1093,25,male,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1094,37,male,No,Yes,Sometimes,Yes,No,Yes,Very easy
+1095,36,male,No,Yes,Sometimes,No,Yes,No,Very difficult
+1096,24,male,Yes,Yes,Rarely,Don't know,No,Don't know,Very easy
+1097,40,male,Yes,Yes,Sometimes,Yes,Not sure,Don't know,Somewhat difficult
+1098,29,male,No,No,Don't Know,Don't know,Not sure,Yes,Somewhat easy
+1099,43,male,No,No,Never,Don't know,No,Don't know,Don't know
+1100,29,male,No,No,Don't Know,Yes,Not sure,Don't know,Don't know
+1101,26,male,Yes,No,Sometimes,Don't know,Not sure,Don't know,Don't know
+1102,33,female,Yes,Yes,Often,No,Yes,No,Very difficult
+1103,35,female,Yes,No,Sometimes,Don't know,No,Don't know,Somewhat easy
+1104,45,male,No,No,Never,Yes,No,Don't know,Don't know
+1105,25,male,No,Yes,Rarely,No,Yes,Don't know,Somewhat easy
+1106,50,male,No,Yes,Sometimes,No,No,Don't know,Don't know
+1107,26,male,Yes,Yes,Rarely,No,No,Don't know,Very easy
+1108,33,female,No,Yes,Often,Yes,Yes,Don't know,Don't know
+1109,30,male,No,No,Often,No,No,No,Very easy
+1110,33,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+1111,29,male,No,Yes,Often,Yes,No,Yes,Somewhat easy
+1112,37,male,No,No,Don't Know,No,Not sure,Don't know,Don't know
+1113,25,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Very easy
+1114,40,male,No,No,Don't Know,Yes,Not sure,Don't know,Somewhat easy
+1115,24,male,No,No,Sometimes,Yes,Yes,Yes,Don't know
+1116,40,male,No,Yes,Never,Don't know,Not sure,Don't know,Very easy
+1117,46,male,Yes,Yes,Sometimes,Don't know,Yes,Don't know,Don't know
+1118,38,male,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+1119,34,male,No,No,Never,No,Yes,Don't know,Don't know
+1120,32,male,No,Yes,Rarely,No,Yes,Yes,Very easy
+1121,44,male,No,Yes,Sometimes,No,No,Don't know,Don't know
+1122,33,female,No,Yes,Never,Don't know,Not sure,Don't know,Very easy
+1123,45,female,No,Yes,Rarely,Don't know,No,Don't know,Don't know
+1124,35,male,No,No,Don't Know,Don't know,Not sure,Yes,Don't know
+1125,26,male,Yes,Yes,Often,No,No,Don't know,Don't know
+1126,20,female,No,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+1128,37,male,Yes,No,Sometimes,No,No,Yes,Somewhat easy
+1129,28,male,No,No,Don't Know,Yes,No,Yes,Somewhat easy
+1130,42,female,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1131,32,male,No,No,Don't Know,No,No,Don't know,Don't know
+1132,36,female,Yes,Yes,Rarely,Yes,Yes,Yes,Somewhat easy
+1133,27,male,No,No,Rarely,No,Yes,No,Somewhat difficult
+1134,27,male,No,No,Rarely,No,Yes,No,Somewhat difficult
+1135,27,male,No,Yes,Sometimes,No,No,Yes,Somewhat easy
+1136,25,male,Yes,Yes,Sometimes,No,No,Yes,Very easy
+1137,41,male,Yes,No,Don't Know,No,No,Don't know,Somewhat difficult
+1138,23,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat easy
+1139,21,male,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+1140,26,male,No,Yes,Often,No,Yes,Yes,Very difficult
+1141,29,male,No,No,Rarely,Don't know,Not sure,Don't know,Don't know
+1142,28,male,No,No,Sometimes,No,No,Don't know,Somewhat easy
+1143,27,female,Yes,No,Don't Know,No,Yes,Yes,Don't know
+1144,23,male,No,No,Never,No,Yes,Yes,Somewhat difficult
+1145,26,female,Yes,No,Sometimes,Don't know,No,Don't know,Don't know
+1146,38,male,Yes,Yes,Sometimes,No,Not sure,Don't know,Very easy
+1147,39,male,Yes,Yes,Sometimes,No,No,Yes,Very easy
+1148,35,male,Yes,Yes,Often,Yes,Yes,Don't know,Somewhat easy
+1149,32,male,No,No,Rarely,Yes,Not sure,Don't know,Don't know
+1150,32,male,No,Yes,Sometimes,Yes,Yes,Yes,Somewhat difficult
+1151,26,male,No,No,Never,No,No,Don't know,Don't know
+1152,38,male,Yes,Yes,Rarely,Don't know,Not sure,Don't know,Don't know
+1153,34,female,Yes,No,Rarely,Yes,Yes,Yes,Very easy
+1154,39,male,Yes,Yes,Often,Don't know,Not sure,Don't know,Somewhat easy
+1155,32,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+1156,37,male,No,No,Never,Don't know,Not sure,Don't know,Very easy
+1157,31,male,Yes,Yes,Never,Don't know,Not sure,Don't know,Somewhat easy
+1158,30,male,Yes,Yes,Rarely,No,Yes,Don't know,Don't know
+1159,51,male,No,No,Never,Don't know,No,Don't know,Don't know
+1160,29,male,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1161,31,male,No,No,Never,Yes,No,Don't know,Don't know
+1162,31,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1163,26,male,Yes,Yes,Sometimes,Don't know,No,Don't know,Somewhat easy
+1164,46,female,No,Yes,Often,Yes,Yes,Yes,Don't know
+1165,32,male,Yes,No,Sometimes,Yes,No,Don't know,Don't know
+1166,29,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1167,34,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+1168,26,male,No,No,Often,No,No,No,Very difficult
+1169,32,female,No,Yes,Sometimes,Yes,Yes,Don't know,Don't know
+1170,29,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1171,30,male,No,No,Don't Know,Yes,No,Don't know,Don't know
+1172,40,female,Yes,Yes,Sometimes,Yes,Yes,Yes,Somewhat easy
+1173,23,male,No,Yes,Sometimes,No,No,Don't know,Very difficult
+1174,20,male,No,No,Rarely,No,No,Don't know,Very difficult
+1175,38,male,Yes,No,Don't Know,Don't know,No,Don't know,Somewhat difficult
+1176,26,female,Yes,Yes,Rarely,Yes,No,Don't know,Don't know
+1177,29,male,No,No,Never,No,No,Don't know,Don't know
+1178,40,male,No,No,Sometimes,No,Yes,Don't know,Somewhat easy
+1179,25,female,No,Yes,Sometimes,No,No,Don't know,Don't know
+1180,32,female,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1181,38,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1182,72,female,Yes,Yes,Never,Yes,Not sure,Don't know,Somewhat easy
+1183,35,female,Yes,Yes,Sometimes,No,No,Yes,Don't know
+1184,28,female,No,Yes,Often,No,Yes,Don't know,Very difficult
+1185,27,female,No,No,Never,Don't know,Not sure,Don't know,Don't know
+1186,56,female,No,No,Rarely,Don't know,Not sure,Don't know,Don't know
+1187,38,male,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+1188,31,female,No,No,Don't Know,Don't know,Not sure,Yes,Very easy
+1189,40,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1190,44,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1191,34,male,Yes,No,Sometimes,Yes,Not sure,Yes,Don't know
+1192,37,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+1193,38,male,No,No,Never,Don't know,Not sure,Yes,Don't know
+1194,27,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1195,34,female,No,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1196,35,female,No,No,Rarely,Don't know,No,No,Don't know
+1197,34,male,No,Yes,Often,No,No,Don't know,Somewhat difficult
+1198,32,male,No,Yes,Often,Yes,Not sure,Don't know,Very difficult
+1199,25,male,No,No,Don't Know,Don't know,Not sure,Don't know,Don't know
+1200,28,male,No,Yes,Often,No,Yes,Don't know,Don't know
+1201,28,female,No,Yes,Rarely,Yes,No,Don't know,Somewhat easy
+1202,31,male,No,Yes,Don't Know,No,Yes,No,Don't know
+1203,24,male,No,No,Don't Know,Don't know,Not sure,Don't know,Somewhat easy
+1204,34,male,Yes,Yes,Never,No,No,Don't know,Don't know
+1205,32,male,No,Yes,Sometimes,No,No,Don't know,Somewhat easy
+1206,34,male,Yes,No,Often,Don't know,Not sure,Don't know,Somewhat easy
+1207,23,male,No,Yes,Sometimes,No,Yes,No,Very easy
+1208,33,male,Yes,No,Often,No,Yes,Don't know,Somewhat easy
+1209,29,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Somewhat difficult
+1210,24,male,Yes,No,Don't Know,No,No,Don't know,Don't know
+1211,45,male,No,No,Never,Don't know,Not sure,Don't know,Don't know
+1212,34,female,No,Yes,Sometimes,No,Yes,Yes,Somewhat difficult
+1213,31,male,No,No,Sometimes,Don't know,No,Don't know,Very difficult
+1214,33,male,No,Yes,Often,Yes,Yes,Yes,Don't know
+1215,28,male,No,No,Don't Know,No,Not sure,Don't know,Somewhat easy
+1216,27,male,No,No,Rarely,Don't know,Not sure,Don't know,Don't know
+1217,42,male,No,No,Never,No,Yes,No,Somewhat difficult
+1218,28,male,No,No,Don't Know,No,Not sure,Don't know,Somewhat easy
+1219,38,male,No,Yes,Sometimes,Yes,No,Yes,Very easy
+1220,46,male,Yes,Yes,Often,Don't know,No,Don't know,Don't know
+1221,46,male,Yes,Yes,Sometimes,Don't know,Not sure,Don't know,Don't know
+1222,41,female,No,Yes,Rarely,Don't know,Yes,No,Somewhat easy
+1223,23,male,No,No,Never,Don't know,No,Don't know,Somewhat easy
+1224,24,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat easy
+1225,23,female,No,Yes,Rarely,No,Yes,Don't know,Don't know
+1226,39,male,No,No,Don't Know,Yes,Not sure,Don't know,Somewhat easy
+1227,32,female,Yes,No,Never,Yes,Yes,Yes,Don't know
+1228,25,male,Yes,Yes,Sometimes,Don't know,Yes,Don't know,Somewhat easy
+1229,39,male,No,No,Don't Know,No,No,Yes,Don't know
+1230,23,female,Yes,Yes,Sometimes,No,Yes,Yes,Very easy
+1231,24,male,No,Yes,Sometimes,No,No,Don't know,Don't know
+1232,25,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+1233,23,male,No,Yes,Rarely,No,Yes,Don't know,Don't know
+1234,24,trans,No,Yes,Sometimes,Don't know,No,Don't know,Don't know
+1235,23,male,No,Yes,Often,Yes,Yes,Don't know,Don't know
+1236,60,male,No,Yes,Often,Don't know,No,Don't know,Somewhat easy
+1237,28,male,No,No,Sometimes,No,Yes,Yes,Don't know
+1238,28,male,Yes,Yes,Often,Yes,Yes,Yes,Somewhat easy
+1239,30,male,No,No,Sometimes,Don't know,No,Don't know,Don't know
+1240,31,male,Yes,Yes,Sometimes,Don't know,No,Yes,Somewhat easy
+1241,31,male,No,Yes,Often,No,No,Don't know,Somewhat easy
+1242,28,male,No,Yes,Rarely,Don't know,No,Don't know,Don't know
+1243,43,female,Yes,Yes,Rarely,Yes,Yes,Don't know,Don't know
+1244,32,female,No,No,Don't Know,No,No,Don't know,Don't know
+1245,22,male,Yes,Yes,Often,Yes,Yes,Yes,Don't know
+1246,32,male,No,No,Never,Yes,Not sure,Don't know,Somewhat easy
+1247,36,male,No,Yes,Often,No,No,No,Very difficult
+1248,41,female,Yes,Yes,Sometimes,Yes,No,Don't know,Don't know
+1249,30,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Very easy
+1250,30,male,Yes,Yes,Often,Yes,Not sure,Don't know,Don't know
+1251,36,male,Yes,Yes,Often,No,Yes,Don't know,Somewhat easy
+1252,29,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
+1253,36,male,Yes,No,Rarely,Don't know,No,Don't know,Somewhat easy
+1254,26,male,No,Yes,Don't Know,No,No,Don't know,Somewhat easy
+1255,32,male,Yes,Yes,Often,Yes,Yes,Yes,Somewhat difficult
+1256,34,male,Yes,Yes,Sometimes,Yes,Yes,Don't know,Somewhat difficult
+1257,46,female,No,No,Don't Know,No,Yes,Don't know,Don't know
+1258,25,male,Yes,Yes,Sometimes,Yes,Yes,Yes,Don't know
