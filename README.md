@@ -9,4 +9,5 @@
 
 # Data Source
 - Provided by [OSMI](https://osmihelp.org/):
-![Model Results](/images/results.png)
+---
+![Model Results](/images/osmi.png)
